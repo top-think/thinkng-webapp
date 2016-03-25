@@ -27,5 +27,8 @@
             "app\\": "./application"
         }
     },
+    "config": {
+        "bin-dir": "bin"
+    },
     "minimum-stability": "dev"
 }
