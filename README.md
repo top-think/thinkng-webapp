@@ -3,11 +3,11 @@
 
 为thinkng创建的应用模板
 
-项目代码在这里(topthink/thinkng)[https://github.com/top-think/thinkng]
+项目代码在这里[topthink/thinkng](https://github.com/top-think/thinkng)
 
 ## 安装
 
-- 首先安装composer，官方网站(https://getcomposer.org/)[https://getcomposer.org/]
+- 首先安装composer，官方网站 [https://getcomposer.org/](https://getcomposer.org/)
 
 - 运行命令 composer create-project topthink/thinkng-webapp [app_name] --stability=dev
 
