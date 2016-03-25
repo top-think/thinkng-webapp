@@ -1,0 +1,25 @@
+{
+    "name": "topthink/thinkng-webapp",
+    "description": "The next generation thinkphp skeleton application",
+    "type": "project",
+    "keywords": ["framework", "thinkphp", "ORM"],
+    "homepage": "http://thinkphp.cn/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "liu21st",
+            "email": "liu21st@gmail.com"
+        },
+        {
+            "name": "tao",
+            "email": "taosikai@yeah.net"
+        }
+    ],
+    "require": {
+        "php": "~5.4",
+        "topthink/thinkng": "dev-master@dev"
+    },
+    "require-dev": {
+    },
+    "minimum-stability": "dev"
+}
