@@ -3,7 +3,7 @@
 
 为thinkng创建的应用模板
 
-项目代码在这里[topthink/thinkng](https://github.com/top-think/thinkng)
+框架代码在这里[topthink/thinkng](https://github.com/top-think/thinkng)
 
 ## 安装
 
